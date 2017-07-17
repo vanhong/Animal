@@ -3,3 +3,5 @@ class Cat < Animal
 		super
 	end
 end
+
+test
